@@ -1,0 +1,43 @@
+/* CSS Document */
+
+.r_slider{
+    
+    width: 1200px;
+    height: 600px;
+    margin-left: 94px;
+    margin-top: 5px;
+}
+h3{
+    color: #5e584c;
+}
+#tag-img{
+    width: 250px;
+    height: 550px;
+    margin-left: 916px;
+    margin-top:145px;
+}       
+#logo
+{
+    border: 1px;
+    margin-left:0px;
+    width:190px;
+    height:72px;    
+}
+
+th{
+    color: #920000;
+    font-weight: bold;
+    font-size: 22px;
+}
+#top-header {
+  background-color: #333;
+  color: #fff;
+}
+.home-account {
+    text-align: center;
+    display: block;
+  }
+  a
+  {
+      font-size: 20px;
+}

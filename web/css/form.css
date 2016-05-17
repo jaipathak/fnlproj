@@ -1,0 +1,63 @@
+body
+{
+    color: #920000;
+}
+#head
+{
+    border: 1px solid;
+    width: 500px;
+    margin-left: 430px;
+    margin-top: 130px;
+    height: 60px;
+    padding-bottom: 15px;
+    background-color: white;
+    
+}
+#main
+{
+    border: 1px solid ;
+    width: 500px;
+        height: 255px;
+        margin-left: 430px;
+        margin-top:10px;
+        background-color: white;
+}
+#tb
+{
+margin-top: 40px;
+font-size: 30px;
+
+}
+a
+{
+    text-decoration: none;
+    font-size: 20px;
+}
+img{
+    width: 120px;
+    margin-left: -110px;
+    margin-top: 20px;
+   
+}
+
+.send button
+{
+   
+  width: 90px;
+  color: #fff;
+  cursor: pointer;
+  height: 35px;
+  text-align: center;
+  background-color: #947D49;
+  font-size: 16px;
+  text-transform: uppercase;
+  border: 0;
+  margin-left: 90px;
+  
+ }
+#re
+{
+    width: 150px;
+    margin-left: 66px;
+    height: 50px;
+}
